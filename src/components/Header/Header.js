@@ -5,7 +5,7 @@ const Header = props => (
   <header className="header">
     <h1>Animal Memory Game!</h1>
     <h2>
-      See how many images you can correctly remember. By clicking on each image you will earn a point, however do not click an image twice or your score will reset to 0!
+      To start the game click on an animal. For each animal you click you will earn 1 point, but don't click an animal twice!
     </h2>
   </header>
 );

@@ -28,11 +28,11 @@ class NavMessage extends Component {
   renderMessage = () => {
     switch (this.state.message) {
     case "correct":
-      return "Correct!";
+      return "CORRECT!";
     case "incorrect":
-      return "Sorry that's Incorrect!";
+      return "Sorry that's incorrect!";
     default:
-      return "Click any Image to Start Playing!";
+      return "Click any animal to begin!";
     }
   };
 
