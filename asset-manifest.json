@@ -1,13 +1,13 @@
 {
   "main.css": "/animalgame/static/css/main.63fc131e.chunk.css",
-  "main.js": "/animalgame/static/js/main.1641f41a.chunk.js",
-  "main.js.map": "/animalgame/static/js/main.1641f41a.chunk.js.map",
+  "main.js": "/animalgame/static/js/main.d7ed0520.chunk.js",
+  "main.js.map": "/animalgame/static/js/main.d7ed0520.chunk.js.map",
   "static/js/1.70538018.chunk.js": "/animalgame/static/js/1.70538018.chunk.js",
   "static/js/1.70538018.chunk.js.map": "/animalgame/static/js/1.70538018.chunk.js.map",
   "runtime~main.js": "/animalgame/static/js/runtime~main.4ae25f9c.js",
   "runtime~main.js.map": "/animalgame/static/js/runtime~main.4ae25f9c.js.map",
   "static/css/main.63fc131e.chunk.css.map": "/animalgame/static/css/main.63fc131e.chunk.css.map",
   "index.html": "/animalgame/index.html",
-  "precache-manifest.329c5b560077a1e5bf1ce260b1ffe8a9.js": "/animalgame/precache-manifest.329c5b560077a1e5bf1ce260b1ffe8a9.js",
+  "precache-manifest.7a18929485585bc42cd8199e19b5f761.js": "/animalgame/precache-manifest.7a18929485585bc42cd8199e19b5f761.js",
   "service-worker.js": "/animalgame/service-worker.js"
 }
