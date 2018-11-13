@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/animalgame/precache-manifest.a6a251ffac5a2a265561667004f3f53b.js"
+  "/animalgame/precache-manifest.329c5b560077a1e5bf1ce260b1ffe8a9.js"
 );
 
 workbox.clientsClaim();
